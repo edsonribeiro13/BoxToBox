@@ -1,0 +1,157 @@
+[
+  {
+    "competicao": "Brasileirão",
+    "rodadas": [
+      {
+        "1": [
+          {
+            "mandante": "TimeA",
+            "visitante": "TimeB",
+            "placarMandante": 4,
+            "placarVisitante": 1,
+            "data": "01/06/2024",
+            "hora": "16:00"
+          },
+          {
+            "mandante": "TimeC",
+            "visitante": "TimeD",
+            "placarMandante": 2,
+            "placarVisitante": 2,
+            "data": "01/06/2024",
+            "hora": "18:00"
+          }
+        ]
+      },
+      {
+        "2": [
+          {
+            "mandante": "TimeE",
+            "visitante": "TimeF",
+            "placarMandante": 3,
+            "placarVisitante": 0,
+            "data": "08/06/2024",
+            "hora": "16:00"
+          },
+          {
+            "mandante": "TimeG",
+            "visitante": "TimeH",
+            "placarMandante": 1,
+            "placarVisitante": 1,
+            "data": "08/06/2024",
+            "hora": "18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competicao": "Libertadores",
+    "rodadas": [
+      {
+        "1": [
+          {
+            "mandante": "TimeI",
+            "visitante": "TimeJ",
+            "placarMandante": 2,
+            "placarVisitante": 0,
+            "data": "05/06/2024",
+            "hora": "21:00"
+          },
+          {
+            "mandante": "TimeK",
+            "visitante": "TimeL",
+            "placarMandante": 3,
+            "placarVisitante": 1,
+            "data": "05/06/2024",
+            "hora": "23:00"
+          }
+        ]
+      },
+      {
+        "2": [
+          {
+            "mandante": "TimeM",
+            "visitante": "TimeN",
+            "placarMandante": 1,
+            "placarVisitante": 1,
+            "data": "12/06/2024",
+            "hora": "21:00"
+          },
+          {
+            "mandante": "TimeO",
+            "visitante": "TimeP",
+            "placarMandante": 4,
+            "placarVisitante": 2,
+            "data": "12/06/2024",
+            "hora": "23:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competicao": "Copa do Brasil",
+    "rodadas": [
+      {
+        "1": [
+          {
+            "mandante": "TimeQ",
+            "visitante": "TimeR",
+            "placarMandante": 5,
+            "placarVisitante": 3,
+            "data": "03/06/2024",
+            "hora": "19:00"
+          },
+          {
+            "mandante": "TimeS",
+            "visitante": "TimeT",
+            "placarMandante": 2,
+            "placarVisitante": 4,
+            "data": "03/06/2024",
+            "hora": "21:00"
+          }
+        ]
+      },
+      {
+        "2": [
+          {
+            "mandante": "TimeU",
+            "visitante": "TimeV",
+            "placarMandante": 1,
+            "placarVisitante": 0,
+            "data": "10/06/2024",
+            "hora": "19:00"
+          },
+          {
+            "mandante": "TimeW",
+            "visitante": "TimeX",
+            "placarMandante": 3,
+            "placarVisitante": 3,
+            "data": "10/06/2024",
+            "hora": "21:00"
+          }
+        ]
+      },
+      {
+        "3": [
+          {
+            "mandante": "TimeY",
+            "visitante": "TimeZ",
+            "placarMandante": 4,
+            "placarVisitante": 4,
+            "data": "17/06/2024",
+            "hora": "19:00"
+          },
+          {
+            "mandante": "TimeAA",
+            "visitante": "TimeBB",
+            "placarMandante": 0,
+            "placarVisitante": 1,
+            "data": "17/06/2024",
+            "hora": "21:00"
+          }
+        ]
+      }
+    ]
+  }
+]

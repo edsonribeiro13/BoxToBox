@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BoxToBox</string>
+    <string name="boxtobox">BoxToBox</string>
+    <string name="cadastrar_se">Cadastrar-se</string>
+    <string name="cadastrar">Cadastro de usuario</string>
+    <string name="login">Login</string>
+    <string name="sair">Sair</string>
+    <string name="senha">Senha</string>
+    <string name="senha_minusculo">senha</string>
+    <string name="idade">Idade</string>
+    <string name="cadastar">Cadastar</string>
+    <string name="voltar">Voltar</string>
+    <string name="editar">Editar</string>
+    <string name="placar_mandante">Placar Mandante</string>
+    <string name="placar_visitante">Placar Visitante</string>
+    <string name="data_do_jogo">Data do jogo</string>
+    <string name="hor_rio_do_jogo">Horário do jogo</string>
+    <string name="sua_avalia_o_da_partida">Sua avaliação da partida</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
+</resources>
